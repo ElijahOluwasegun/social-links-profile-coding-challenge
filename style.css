@@ -36,7 +36,7 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 2.5em 2em 2em 2em;
+    padding: 2.5em 2em 2em;
     background-color: hsl(0, 0%, 12%);
     border-radius: 11px;
 }
@@ -71,7 +71,7 @@ p {
 }
 
 .profile_description {
-    margin: 2.5em 0em 2em 0em;
+    margin: 2.5em 0em 2em;
 }
 
 .profile_links_container {
@@ -125,7 +125,7 @@ p {
     }
 
     .profile_container {
-        padding: 2.5em 1.5em 2em 1.5em;
+        padding: 2.5em 1.5em 2em;
     }
 
     p {
