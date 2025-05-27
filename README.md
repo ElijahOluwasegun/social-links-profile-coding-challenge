@@ -36,6 +36,7 @@ Users should be able to:
 ![Desktop - version](./screenshot/screenshot_solution_desktop_version_active_state_2.png)
 
 **Mobile Version**
+
 ![Mobile - version](./screenshot/screenshot_solution_mobile_version.png)
 
 **Mobile Version - Hover State**
